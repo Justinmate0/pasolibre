@@ -1,0 +1,7 @@
+# PasoLibre
+> Concepto académico (USFQ, 2026) de un sistema que proyecta líneas de luz en el piso para ayudar a personas con Parkinson con congelamiento de la marcha. Dirigido a clínicas de fisioterapia de Quito. En validación; no es un dispositivo médico aprobado.
+
+- [Inicio](https://justinmate0.github.io/pasolibre/): qué es el congelamiento de la marcha y guía para familias
+- [Cómo funciona](https://justinmate0.github.io/pasolibre/como-funciona.html): funcionamiento, evidencia y preguntas frecuentes
+- [Solicitar piloto](https://justinmate0.github.io/pasolibre/solicitar-piloto.html): piloto de 30 días
+- [Para clínicas](https://justinmate0.github.io/pasolibre/para-clinicas.html): soporte y clínicas referentes

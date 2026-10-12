@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://justinmate0.github.io/pasolibre/sitemap.xml
